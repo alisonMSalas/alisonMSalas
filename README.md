@@ -45,19 +45,30 @@ Mi objetivo es continuar creciendo como profesional, especializándome en el des
 
 ## Mis Proyectos
 
-### Gestor Centro de Salud
-<a href="https://github.com/rafaelsoriano04/gestor-centro-de-salud.git">
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/6ce23a29-188d-41f8-a10f-51e09105d1dc" alt="Gestor Centro de Salud" width="300" />
-</a>
-**Descripción:** Diseñada para mejorar la eficiencia operativa de los centros de salud mediante la automatización de los procesos administrativos y clínicos.  
-**Tecnologías utilizadas:** Java, MySQL.
-
-### Gestor de Tareas
-<a href="https://github.com/rafaelsoriano04/gestor-tareas.git">
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/a3a70938-377b-48e0-862d-648c5fe91e75" alt="Gestor de Tareas" width="300" />
-</a>
-**Descripción:** Diseñado para ayudar a los usuarios a organizar y priorizar sus actividades diarias de manera eficiente.  
-**Tecnologías utilizadas:** Java, MySQL.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/rafaelsoriano04/gestor-centro-de-salud.git">
+        <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/6ce23a29-188d-41f8-a10f-51e09105d1dc" alt="Gestor Centro de Salud" width="300" />
+      </a>
+    </td>
+    <td>
+      <strong>Descripción:</strong> Diseñada para mejorar la eficiencia operativa de los centros de salud mediante la automatización de los procesos administrativos y clínicos.<br>
+      <strong>Tecnologías utilizadas:</strong> Java, MySQL.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/rafaelsoriano04/gestor-tareas.git">
+        <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/a3a70938-377b-48e0-862d-648c5fe91e75" alt="Gestor de Tareas" width="300" />
+      </a>
+    </td>
+    <td>
+      <strong>Descripción:</strong> Diseñado para ayudar a los usuarios a organizar y priorizar sus actividades diarias de manera eficiente.<br>
+      <strong>Tecnologías utilizadas:</strong> Java, MySQL.
+    </td>
+  </tr>
+</table>
 
 
 
