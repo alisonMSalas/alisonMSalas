@@ -5,17 +5,24 @@
   <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/46a9696e-a328-45df-9413-8d779c926073" alt="Banner de Alison Salas" width="100%">
 </p>
 
-<!--
-**alisonMSalas/alisonMSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conéctate conmigo:
+- [Instagram](https://www.instagram.com/mikasalas_23?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) :camera:
+- [Facebook](https://www.facebook.com/profile.php?id=100094732628346) :facebook:
 
-Here are some ideas to get you started:
+### Información Personal :woman:
+Hola, soy Alison Salas, actualmente una estudiante apasionada por el campo del software, con un interés particular en el desarrollo frontend y el diseño. 
+Mi curiosidad y dedicación me han llevado a explorar también el ámbito del backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudios :books:
+Estoy cursando el segundo año de Ingeniería en Software, donde he adquirido sólidas bases en programación, desarrollo web, y manejo de bases de datos. 
+He trabajado en varios proyectos universitarios que me han permitido perfeccionar mis habilidades en Java y desarrollo de aplicaciones web.
+
+### Mis Cursos :mortar_board:
+- Introducción Arduino
+- React: De cero a experto
+
+### Mis Objetivos :rocket:
+Mi objetivo es continuar creciendo como profesional, especializándome en el desarrollo de software para sistemas empresariales.
+<p align="center">
+  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/46a9696e-a328-45df-9413-8d779c926073" alt="Banner de Alison Salas" width="100%">
+</p>
