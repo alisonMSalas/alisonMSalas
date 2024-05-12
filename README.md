@@ -29,3 +29,45 @@ Mi objetivo es continuar creciendo como profesional, especializándome en el des
 <p align="center">
   <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/46a9696e-a328-45df-9413-8d779c926073" alt="Banner de Alison Salas" width="100%">
 </p>
+
+## Tecnologías y Herramientas :computer:
+
+<p align="center">
+  <a href="https://www.java.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" height="60" alt="Java" /><br>
+    Java
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60" alt="CSS" /><br>
+    CSS
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" height="60" alt="JavaScript" /><br>
+    JavaScript
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="60" height="60" alt="Docker" /><br>
+    Docker
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://cdn-icons-png.flaticon.com/512/1029/1029156.png" width="60" height="60" alt="Spring Boot" /><br>
+    Spring Boot
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="60" height="60" alt="MySQL" /><br>
+    MySQL
+  </a>
+  <a href="https://www.oracle.com/database/">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="60" height="60" alt="Oracle" /><br>
+    Oracle
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="60" height="60" alt="React" /><br>
+    React
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="60" height="60" alt="HTML" /><br>
+    HTML
+  </a>
+</p>
+
