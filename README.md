@@ -6,8 +6,9 @@
 </p>
 
 ### Conéctate conmigo:
-- [Instagram](https://www.instagram.com/mikasalas_23?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) :camera:
-- [Facebook](https://www.facebook.com/profile.php?id=100094732628346) :facebook:
+<a href="https://github.com/alisonMSalas"><img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" height="30" /></a>
+<a href="https://www.instagram.com/mikasalas_23?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png" width="30" height="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=100094732628346"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png" width="30" height="30" /></a>
 
 ### Información Personal :woman:
 Hola, soy Alison Salas, actualmente una estudiante apasionada por el campo del software, con un interés particular en el desarrollo frontend y el diseño. 
