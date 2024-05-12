@@ -1,10 +1,8 @@
 # Hola! :wave:
 ## Soy Alison Salas
 <p align="center">
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/b9516ad9-af86-498d-92fa-293a0830c52d" alt="Banner de Alison Salas" width="100%">
+  <img src="[https://github.com/alisonMSalas/alisonMSalas/assets/151758006/b9516ad9-af86-498d-92fa-293a0830c52d](https://github.com/alisonMSalas/alisonMSalas/assets/151758006/46a9696e-a328-45df-9413-8d779c926073)" alt="Banner de Alison Salas" width="100%">
 </p>
-
-
 
 <!--
 **alisonMSalas/alisonMSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
