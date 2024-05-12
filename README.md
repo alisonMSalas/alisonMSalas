@@ -32,42 +32,18 @@ Mi objetivo es continuar creciendo como profesional, especializándome en el des
 
 ## Tecnologías y Herramientas :computer:
 
+## Tecnologías y Herramientas
+
 <p align="center">
-  <a href="https://www.java.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="60" height="60" alt="Java" /><br>
-    Java
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60" alt="CSS" /><br>
-    CSS
-  </a>
-  <a href="https://www.javascript.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="60" height="60" alt="JavaScript" /><br>
-    JavaScript
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="60" height="60" alt="Docker" /><br>
-    Docker
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://cdn-icons-png.flaticon.com/512/1029/1029156.png" width="60" height="60" alt="Spring Boot" /><br>
-    Spring Boot
-  </a>
-  <a href="https://www.mysql.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="60" height="60" alt="MySQL" /><br>
-    MySQL
-  </a>
-  <a href="https://www.oracle.com/database/">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="60" height="60" alt="Oracle" /><br>
-    Oracle
-  </a>
-  <a href="https://reactjs.org">
-    <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="60" height="60" alt="React" /><br>
-    React
-  </a>
-  <a href="https://www.w3.org/html/">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="60" height="60" alt="HTML" /><br>
-    HTML
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/1029/1029156.png" alt="Spring Boot" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="MySQL" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Oracle" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="60" height="60">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="60" height="60">
 </p>
+
 
