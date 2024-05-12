@@ -32,8 +32,6 @@ Mi objetivo es continuar creciendo como profesional, especializándome en el des
 
 ## Tecnologías y Herramientas :computer:
 
-## Tecnologías y Herramientas
-
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="60" height="60">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="60" height="60">
@@ -42,8 +40,23 @@ Mi objetivo es continuar creciendo como profesional, especializándome en el des
   <img src="https://cdn-icons-png.flaticon.com/512/1029/1029156.png" alt="Spring Boot" width="60" height="60">
   <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="MySQL" width="60" height="60">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Oracle" width="60" height="60">
-  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="60" height="60">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="60" height="60">
 </p>
+
+## Mis Proyectos
+
+### Proyecto 1: [Gestor Centro de Salud](https://github.com/rafaelsoriano04/gestor-centro-de-salud.git)
+![Imagen del Proyecto](https://github.com/alisonMSalas/alisonMSalas/assets/151758006/6ce23a29-188d-41f8-a10f-51e09105d1dc)
+**Descripción:** Diseñada para mejorar la eficiencia operativa de los centros de salud mediante la automatización de los procesos administrativos y clínicos. 
+**Tecnologías utilizadas:** Java, MySql.
+
+
+### Proyecto 2: [Gestor de Tareas](https://github.com/rafaelsoriano04/gestor-tareas.git)
+![task](https://github.com/alisonMSalas/alisonMSalas/assets/151758006/a3a70938-377b-48e0-862d-648c5fe91e75)
+
+**Descripción:** Diseñado para ayudar a los usuarios a organizar y priorizar sus actividades diarias de manera eficiente. 
+**Tecnologías utilizadas:** Java, MySql.
+
+
 
 
