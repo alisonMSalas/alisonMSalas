@@ -1,6 +1,9 @@
 #Hola! :tw-1f44b:
 ## Soy Alison Salas
-![alisonMSalas](https://github.com/alisonMSalas/alisonMSalas/assets/151758006/b9516ad9-af86-498d-92fa-293a0830c52d)
+<p align="center">
+  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/b9516ad9-af86-498d-92fa-293a0830c52d" alt="Banner de Alison Salas">
+</p>
+
 
 <!--
 **alisonMSalas/alisonMSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
