@@ -1,8 +1,9 @@
-#Hola! :tw-1f44b:
+# Hola! :wave:
 ## Soy Alison Salas
 <p align="center">
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/b9516ad9-af86-498d-92fa-293a0830c52d" alt="Banner de Alison Salas">
+  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/b9516ad9-af86-498d-92fa-293a0830c52d" alt="Banner de Alison Salas" width="100%">
 </p>
+
 
 
 <!--
