@@ -8,7 +8,7 @@ Actualmente en pasantías en **CiAuto** — gestión de RRHH y automatización d
 <br/>
 
 [![Portafolio](https://img.shields.io/badge/-Portafolio-0d0b14?style=for-the-badge&logo=vercel&logoColor=f5a8cb)](https://portfolio-v2-0-zeta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0b14?style=for-the-badge&logo=linkedin&logoColor=c9a8e8)](https://www.linkedin.com/in/alison-salas)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0b14?style=for-the-badge&logo=linkedin&logoColor=c9a8e8)](https://www.linkedin.com/in/alisonsalas)
 [![Gmail](https://img.shields.io/badge/-Gmail-0d0b14?style=for-the-badge&logo=gmail&logoColor=f5c4a1)](mailto:alisonsalas0319@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-0d0b14?style=for-the-badge&logo=instagram&logoColor=f5a8cb)](https://www.instagram.com/mikasalas_23)
 
@@ -199,12 +199,13 @@ Sistema completo para la gestión administrativa y clínica de centros de salud.
 
 ## GitHub Stats
 
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alisonMSalas&show_icons=true&bg_color=0d0b14&title_color=f5a8cb&text_color=c9a8e8&icon_color=f5c4a1&border_color=2d2b3d&count_private=true&hide_border=false" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonMSalas&layout=compact&bg_color=0d0b14&title_color=f5a8cb&text_color=c9a8e8&border_color=2d2b3d&langs_count=8&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=alisonMSalas&locale=es&background=0d0b14&ring=f5a8cb&fire=f5c4a1&currStreakLabel=c9a8e8&sideLabels=c9a8e8&sideNums=f5a8cb&dates=6b6b8d&border=2d2b3d&stroke=2d2b3d" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alisonMSalas&bg_color=0d0b14&color=c9a8e8&line=f5a8cb&point=f5c4a1&area=true&area_color=f5a8cb&hide_border=false&border_color=2d2b3d&radius=6" />
 
 </div>
 
