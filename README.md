@@ -66,6 +66,8 @@ Ingeniera de Software egresada de la **Universidad Técnica de Ambato** · Caste
 <tr>
 <td valign="top" width="50%">
 
+<img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/appciauto.png" width="100%" alt="App de Gestión de RRHH" />
+
 ### App de Gestión de RRHH
 **CiAuto · Pasantía &nbsp;`privado`**
 
@@ -79,6 +81,8 @@ Sistema full-stack para la gestión de recursos humanos con roles diferenciados 
 
 </td>
 <td valign="top" width="50%">
+
+<img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/automatizacionesciauto.png" width="100%" alt="CiAuto Automation System" />
 
 ### CiAuto Automation System
 **CiAuto · Pasantía &nbsp;`privado`**
@@ -103,8 +107,7 @@ Plataforma de automatización de procesos financieros y operativos para una empr
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/alisonMSalas/insurance-manager-front">
-  <!-- IMAGEN: sube seguro.png al repo alisonMSalas/alisonMSalas y reemplaza esta línea -->
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/6ce23a29-188d-41f8-a10f-51e09105d1dc" width="100%" alt="Gestor de Seguros" />
+  <img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/seguro.png" width="100%" alt="Gestor de Seguros" />
 </a>
 
 **[Gestor de Seguros](https://github.com/alisonMSalas/insurance-manager-front)**
@@ -118,8 +121,7 @@ Plataforma para la gestión de seguros con pruebas automatizadas. Gestión de co
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/alisonMSalas/finance-management-back">
-  <!-- IMAGEN: sube finanzas.png al repo alisonMSalas/alisonMSalas y reemplaza esta línea -->
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/a3a70938-377b-48e0-862d-648c5fe91e75" width="100%" alt="Finanzas Personales" />
+  <img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/finanzas.png" width="100%" alt="Finanzas Personales" />
 </a>
 
 **[Finanzas Personales](https://github.com/alisonMSalas/finance-management-back)**
@@ -135,8 +137,7 @@ App para gestionar finanzas personales: metas de ahorro, control de gastos, auto
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/FreddyA12/reservas-aulas-front">
-  <!-- IMAGEN: sube reservas.png al repo alisonMSalas/alisonMSalas y reemplaza esta línea -->
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/ede953cb-8555-4998-afc6-25ed10a1aac9" width="100%" alt="Reserva de Aulas" />
+  <img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/reservas.png" width="100%" alt="Reserva de Aulas" />
 </a>
 
 **[Reserva de Aulas — UTA](https://github.com/FreddyA12/reservas-aulas-front)**
@@ -150,8 +151,7 @@ Sistema implementado activamente en la Universidad Técnica de Ambato para la ge
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/rafaelsoriano04/uta-forum-front">
-  <!-- IMAGEN: sube foro.jpg al repo alisonMSalas/alisonMSalas y reemplaza esta línea -->
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/9f4096f8-e5fe-4f8d-9669-b0354b640db2" width="100%" alt="Foro Académico" />
+  <img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/foro.jpg" width="100%" alt="Foro Académico" />
 </a>
 
 **[Foro Académico · App Móvil](https://github.com/rafaelsoriano04/uta-forum-front)**
@@ -166,8 +166,7 @@ Aplicación móvil híbrida para foros académicos: publicaciones, comentarios, 
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/alisonMSalas/Therapy-management">
-  <!-- IMAGEN: sube spa.jpg al repo alisonMSalas/alisonMSalas y reemplaza esta línea -->
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/d76eb052-acc5-41a5-91d8-4d37ed030f60" width="100%" alt="Spa Manage" />
+  <img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/spa.jpg" width="100%" alt="Spa Manage" />
 </a>
 
 **[Spa Manage](https://github.com/alisonMSalas/Therapy-management)**
@@ -180,7 +179,7 @@ Sistema CRUD para la administración de salas, citas y clientes de un spa. Foco 
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/rafaelsoriano04/gestor-centro-de-salud">
-  <img src="https://github.com/alisonMSalas/alisonMSalas/assets/151758006/6ce23a29-188d-41f8-a10f-51e09105d1dc" width="100%" alt="Sistema de Salud" />
+  <img src="https://raw.githubusercontent.com/alisonMSalas/alisonMSalas/main/salud.png" width="100%" alt="Sistema de Salud" />
 </a>
 
 **[Sistema de Salud](https://github.com/rafaelsoriano04/gestor-centro-de-salud)**
